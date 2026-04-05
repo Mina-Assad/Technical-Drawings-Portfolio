@@ -21,7 +21,7 @@ The purpose of this portfolio is to demonstrate technical drafting skills, atten
 Technical-Drawings-Portfolio/
 │
 ├── AutoCAD/        # Drawings created using AutoCAD
-│   ├── Engineering-Graphics-Coursewor/
+│   ├── Engineering-Graphics-Coursework/
 │   └── Senior-Design/
 ```
 
