@@ -18,7 +18,7 @@ The purpose of this portfolio is to demonstrate technical drafting skills, atten
 ## 📂 Repository Structure
 
 ```
-Engineering_CAD_Portfolio/
+Technical-Drawings-Portfolio/
 │
 ├── AutoCAD/        # Drawings created using AutoCAD
 │   ├── Engineering-Graphics-Coursewor/
